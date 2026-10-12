@@ -39,7 +39,7 @@ namespace CTDLGT_Buoi01_31251021285
             return max;
         }
         
-        static void Main(string[] augs)
+        static void Main3(string[] augs)
         {
 
         }
