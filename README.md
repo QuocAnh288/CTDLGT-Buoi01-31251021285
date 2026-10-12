@@ -10,7 +10,7 @@
 * **Họ và tên:** Võ Quốc Anh
 * **Mã số sinh viên (MSSV):** 31251021285
 
-* **Repository:** `CTDLGT-Buoi01-[MSSV]`
+* **Repository:** `CTDLGT-Buoi01-31251021285
 
 ---
 
