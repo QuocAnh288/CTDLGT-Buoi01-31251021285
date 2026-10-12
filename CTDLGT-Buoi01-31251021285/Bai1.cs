@@ -4,7 +4,7 @@ using System.Text;
 internal class Bai1
 {
     
-    static void Main(string[] augs)
+    static void Main1(string[] augs)
     {
         Console.OutputEncoding = Encoding.UTF8;
         Console.WriteLine("Nhập ba số nguyên:");
