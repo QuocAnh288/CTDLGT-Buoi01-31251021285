@@ -39,9 +39,12 @@ namespace CTDLGT_Buoi01_31251021285
             return max;
         }
         
-        static void Main3(string[] augs)
+        static void Main(string[] augs)
         {
-
+            long a = Bai3VerA([-5,4,6,87,5,3,-10,900,-100]);
+            Console.WriteLine(a);
+            long b = Bai3VerA([-2, 3, -1, 4]);
+            Console.WriteLine(b);
         }
     }
 }

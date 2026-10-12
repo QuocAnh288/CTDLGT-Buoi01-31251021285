@@ -5,7 +5,7 @@ using System.Text;
 internal class Bai2
 {
 
-    static void Main(string[] augs)
+    static void Main2(string[] augs)
     {
         Console.OutputEncoding = Encoding.UTF8;
         Console.WriteLine("Nhập n số nguyên:");
